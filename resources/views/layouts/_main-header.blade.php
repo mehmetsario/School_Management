@@ -31,7 +31,7 @@
                     <div class="menu menu-column menu-title-gray-800 menu-state-title-primary menu-state-icon-primary menu-state-bullet-primary menu-arrow-gray-500" id="#kt_aside_menu" data-kt-menu="true">
                         <div class="menu-item">
                             <div class="menu-content pb-2">
-                                <span class="menu-section text-muted text-uppercase fs-8 ls-1">{{trans('sidebar_trans.Dashboard')}}</span>
+                                <span class="menu-section text-muted text-uppercase fs-8 ls-1">{{trans('sidebar.Dashboard')}}</span>
                             </div>
                         </div>
                         <div class="menu-item">
@@ -48,7 +48,7 @@
                                                     </span>
                                                     <!--end::Svg Icon-->
                                                 </span>
-                                <span class="menu-title">{{trans('sidebar_trans.main')}}</span>
+                                <span class="menu-title">{{trans('sidebar.main')}}</span>
                             </a>
                         </div>
                         <div class="menu-item">
@@ -56,7 +56,7 @@
                                                 <span class="menu-icon">
                                                      <i class="bi bi-people fs-3"></i>
                                                 </span>
-                                <span class="menu-title">{{trans('sidebar_trans.user_manger')}}</span>
+                                <span class="menu-title">{{trans('sidebar.user_manger')}}</span>
                             </a>
                         </div>
                         <div class="menu-item">
@@ -64,7 +64,7 @@
                                                 <span class="menu-icon">
                                                     <i class="bi bi-sliders"></i>
                                                 </span>
-                                <span class="menu-title">{{trans('sidebar_trans.site_manger')}}</span>
+                                <span class="menu-title">{{trans('sidebar.site_manger')}}</span>
                             </a>
                         </div>
                         <div class="menu-item">
