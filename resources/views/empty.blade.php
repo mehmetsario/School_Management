@@ -8,7 +8,7 @@
 @endsection
 
 @section('content')
-    Content Here
+    Content Here {{trans('test.test')}}
 @endsection
 
 @section('JavaScript')
