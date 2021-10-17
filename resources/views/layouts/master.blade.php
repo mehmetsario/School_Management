@@ -10,6 +10,8 @@
     @yield('css')
     <title>@yield('title')</title>
 </head>
+
+
 <body id="kt_body" class="header-fixed header-tablet-and-mobile-fixed toolbar-enabled toolbar-fixed toolbar-tablet-and-mobile-fixed aside-enabled aside-fixed" style="--kt-toolbar-height:55px;--kt-toolbar-height-tablet-and-mobile:55px">
 
     @include('layouts._main-header')

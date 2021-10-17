@@ -3,8 +3,14 @@
 
 @section('title')
 
-@stop
 @endsection
+@section('SectionName')
+    Dashboard
+@endsection
+@section('PageName')
+Home
+@endsection
+
 
 @section('content')
     <!--begin::Container-->
